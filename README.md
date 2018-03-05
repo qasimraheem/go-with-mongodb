@@ -1,6 +1,6 @@
 # go-with-mongodb
  
- ###FirstRun mongoDB: 
+ ### FirstRun mongoDB: 
  
  ```bash
  mongo --host 127.0.0.1:27017
